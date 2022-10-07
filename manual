@@ -1,0 +1,7 @@
+Procedure
+In the SQL Server Management Studio, open Object Explorer.
+Click Server_instance_name > Security > Logins.
+Right-click Logins and select New Login.
+On the General page, in the Login name field, type the name for a new user.
+Select SQL Server authentication.
+In the Password field, type a password for the user.
